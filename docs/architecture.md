@@ -22,3 +22,4 @@ OSGi三层结构
 - Bundle可以注册服务、搜索服务、监听服务。
 - OSGi 4推出了DeclaraPve Services(DS)
 - OSGi 4.2企业级规范中引入了Blueprint规范，脱胎于Spring DM，更加简便地定义和使用服务
+![service](../images/service.jpg)
