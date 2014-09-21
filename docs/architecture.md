@@ -16,6 +16,7 @@ OSGi三层结构
 - STOPPING：正在停止bundle。调用了bundle激活器的stop方法，而且还没有从方法中返回。
 - UNINSTALLED：bundle已经卸载完毕，不能进入其他状态。
 ![lifecycle](../images/lifecycle.png)
+
 #### 服务层
 - 定义了动态协作模型，该模型是一个发布、查找和绑定的模型。
 - Bundle可以注册服务、搜索服务、监听服务。
